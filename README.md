@@ -41,3 +41,19 @@ En **Super Metroid** *Samus* acaba de terminar con todos los *Metroid* en el pla
 La interfaz de **Super Metroid** cuenta con dos partes. La principal está presente mientras se juega y cuenta con la cantidad de energía que se podrá ver en la esquina inferior izquierda en forma de bloques y la cantidad numérica que irán aumentando o disminuyendo conforme la cantidad numérica descienda a menos de 1 o ascienda a mas de 99 incrementando o disminuyendo la cantidad de bloques. En el centro están las armas secundarias, que al tener una seleccionada tras pulsar **SELECT** esta se iluminará de un color verde. Por último en la esquina superior derecha se encuentra el mapa delimitado por las zonas que se encuentran cerca del jugador y que se han explorado, rellenándose conforme se descubren las zonas.
 
 La otra parte de la **UI** se encuentra en el menú en el que en una parte están los datos de **Samus** y se ven todas las mejoras que se han conseguido, además que se pueden activar y desactivar ciertas mejoras. Pulsando L/R se cambia al mapa general que permite ver todas las zonas del mapa exploradas y se indica que hay una mejora mediante un círculo en el bloque que correspondería a la zona del mapa.
+
+Aquí dejo un enlace donde se puede ver la UI durante el gameplay.
+
+(https://www.youtube.com/watch?v=Y9tufNHthJE)
+
+## Complejidad del desarrollo
+
+Está claro que en dos semanas es imposible recrear ni un 50% del juego pero mínimo el objetivo sería con mi propio estilo, recrear los elementos mas básicos del gameplay, diseñar un nivel y hacer un jefe. Además debido a mi poca experiencia con la programación, esto va a suponer tambien una parte retante durante las dos semanas.
+
+## Conocimientos necesarios para completarlo
+
+En general sería necesario tener nociones básicas de diseño de niveles, sobretodo teniendo en cuenta que va enfocado a un metroidvania, sería necesario aprender a programar el movimiento, la función de disparo, un par de mecánicas más que incluiría y el comportamiento de los enemigos/jefe. Además obviamente poner en práctica mis conocimientos para la creación de sprites y sus animaciones.
+
+## Conclusiones
+
+**Super Metroid** es uno de mis videojuegos favoritos de todos los tiempos y poder hacerle una especie de tributo retándome a crear al menos algo similar de forma muy acotada y en dos semanas, es un reto que disfrutaría bastante.
